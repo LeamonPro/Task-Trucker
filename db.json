@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "d899",
+      "text": "Angular Course",
+      "day": "Jan 15 at 11Am",
+      "reminder": false
+    },
+    {
+      "id": "ea64",
+      "text": "Angular practice",
+      "day": "Jan 29 at 2Pm",
+      "reminder": true
+    },
+    {
+      "id": "bb47",
+      "text": "SpringBoot course",
+      "day": "Jan 10 at 12Pm",
+      "reminder": true
+    },
+    {
+      "id": "4c1f",
+      "text": "Angular & SpringBoot project",
+      "day": "Jan 31 at 11:30Am",
+      "reminder": true
+    }
+  ]
+}
